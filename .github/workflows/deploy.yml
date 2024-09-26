@@ -27,3 +27,5 @@ jobs:
           project: portfolio-astro-deno
           entrypoint: server/entry.mjs
           root: dist
+        env:
+          DENO_DEPLOY_TOKEN: ddp_W7Hht82q6rOrgIe8SMsJDBI27MlniC1T9FIF
