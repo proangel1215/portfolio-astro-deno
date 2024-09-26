@@ -8,7 +8,8 @@
     "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "format": "prettier --write . --plugin=prettier-plugin-astro"
+    "format": "prettier --write . --plugin=prettier-plugin-astro",
+    "deno-deploy": "npm run build && deployctl deploy --project=portfolio-astro-deno --no-static --include=./dist ./dist/server/entry.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.7.0",
