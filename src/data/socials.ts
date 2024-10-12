@@ -1,27 +1,27 @@
-import IconDribbble from "../components/icons/dribbble.astro";
-import IconGithub from "../components/icons/github.astro";
-import IconLinkedin from "../components/icons/linkedin.astro";
-import IconTwitter from "../components/icons/twitter.astro";
+import IconDiscord from '../components/icons/discord.astro';
+import IconGithub from '../components/icons/github.astro';
+import IconUpwork from '../components/icons/upwork.astro';
+import IconTelegram from '../components/icons/telegram.astro';
 
 export const SOCIALS = [
   {
-    name: "Github",
-    url: "https://github.com/thevrus",
+    name: 'Github',
+    url: 'https://github.com/proangel1215',
     icon: IconGithub,
   },
   {
-    name: "Linkedin",
-    url: "https://www.linkedin.com/in/vrusin/",
-    icon: IconLinkedin,
+    name: 'Upwork',
+    url: 'https://www.upwork.com/freelancers/~013e7fbecb1db5a42f',
+    icon: IconUpwork,
   },
   {
-    name: "Twitter",
-    url: "https://twitter.com/rusin_vadim",
-    icon: IconTwitter,
+    name: 'Telegram',
+    url: 'https://t.me/heavenglider',
+    icon: IconTelegram,
   },
   {
-    name: "Dribbble",
-    url: "https://dribbble.com/iamvr",
-    icon: IconDribbble,
+    name: 'Discord',
+    url: 'https://discord.gg/zxTYTuyYwg',
+    icon: IconDiscord,
   },
 ];
