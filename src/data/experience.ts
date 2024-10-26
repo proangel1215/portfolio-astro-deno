@@ -27,7 +27,7 @@ export const EXPERIENCE: ExperienceProp[] = [
     description:
       'Developed mobile application titled "Chop" which aimed to `A restaurant table booking app developed to streamline the dining experience using react-native.And developed enabling easy table reservations, menu previews, and personalized dining recommendations using flutter.`. This project was executed using React Native for efficient cross-platform functionality, ensuring a seamless user experience across both Android and iOS devices. Additionally, Flutter was utilized for specific modules requiring intricate UI designs, taking advantage of its rich widget library and fast rendering to enhance the app’s visual appeal and performance.',
     technologies: ['JavaScript', 'Dart', 'React Native', 'Flutter', 'Redux'],
-    logo: '/logos/paracon.png',
+    logo: '/logos/Pentalog.png',
   },
   {
     dates: 'February 2021 — December 2022',
