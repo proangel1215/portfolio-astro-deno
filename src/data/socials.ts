@@ -11,7 +11,7 @@ export const SOCIALS = [
   },
   {
     name: 'Upwork',
-    url: 'https://www.upwork.com/freelancers/~013e7fbecb1db5a42f',
+    url: 'https://www.upwork.com/freelancers/~013b0f33839923f6fe',
     icon: IconUpwork,
   },
   {
@@ -24,4 +24,4 @@ export const SOCIALS = [
     url: 'https://discord.gg/zxTYTuyYwg',
     icon: IconDiscord,
   },
-];
+]
