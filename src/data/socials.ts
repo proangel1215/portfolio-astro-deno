@@ -1,7 +1,7 @@
-import IconDiscord from '../components/icons/discord.astro';
-import IconGithub from '../components/icons/github.astro';
-import IconUpwork from '../components/icons/upwork.astro';
-import IconTelegram from '../components/icons/telegram.astro';
+import IconDiscord from '../components/icons/discord.astro'
+import IconGithub from '../components/icons/github.astro'
+import IconUpwork from '../components/icons/upwork.astro'
+import IconTelegram from '../components/icons/telegram.astro'
 
 export const SOCIALS = [
   {
@@ -11,7 +11,7 @@ export const SOCIALS = [
   },
   {
     name: 'Upwork',
-    url: 'https://www.upwork.com/freelancers/~013b0f33839923f6fe',
+    url: 'https://www.upwork.com/freelancers/~01e709c2e26354f8c2',
     icon: IconUpwork,
   },
   {
